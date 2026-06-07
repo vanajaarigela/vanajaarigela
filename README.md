@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vanaja! 👋
 
-<!--
-**vanajaarigela/vanajaarigela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- Python 🐍
+- Data Structures & Algorithms 📚
+- Web Development 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goal:
+To become a Software Developer and build amazing projects.
+
+✨ Started late. Not giving up. Building my future one commit at a time.
+
+Thanks for visiting my profile! 💙
