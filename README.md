@@ -1,4 +1,4 @@
-# Hi, I'm Vanaja! 👋
+# Hi, I'm Vanaja sree Arigela! 👋
 
 🎓 B.Tech IT Student
 
